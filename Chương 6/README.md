@@ -43,8 +43,10 @@
 đặc tả tiến trình
 ![alt text](./img/dactatientrinh.png)
 
-đặc tả điều khiển
+mô hình luồng điều khiển
 ![alt text](./img/luongdieukhien.png)
+
+đặc tả điều khiển
 ![alt text](./img/dactadk.png)
 
 usecase - UML
